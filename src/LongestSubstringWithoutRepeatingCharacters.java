@@ -1,5 +1,3 @@
-//3. Longest Substring Without Repeating Characters
-
 class Solution {
     public int lengthOfLongestSubstring(String s) { 
         int left = 0;
